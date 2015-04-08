@@ -2,7 +2,7 @@
 #
 # When done, turn the method name to the false, so you can
 #      globally turn all debug statements back on if needed
-#      or leave breadcrumbs of where you had problems last time.
+#      or leave breadcrumbs of where you had problems last time...
 #
 module DebugHelper
   def debug_helper_true(f1, s2)
